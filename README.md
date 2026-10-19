@@ -8,7 +8,9 @@ responsibility.
 ### COALSYS, 3.1.0.1 COMMANDS
 exit;
 exit allows clean aborts of the game.
+
 cache;
 cache allows user to reuse a previous command-line
+
 clear;
 clear allows user to clean the texts of the consoles.

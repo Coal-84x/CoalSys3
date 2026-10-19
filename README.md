@@ -12,5 +12,5 @@ exit allows clean aborts of the game.
 **cache;**
 cache allows user to reuse a previous command-line
 
-**clear;**
-clear allows user to clean the texts of the consoles.
+**wipe;**
+wipe allows user to clean the texts of the consoles.

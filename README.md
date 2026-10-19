@@ -6,11 +6,11 @@ but were fully tested by Coal-84x.
 Before installing CoalSys3, please read the following MIT License, any damaged property were not under Coal-84x
 responsibility.
 ## COALSYS, 3.1.0.1 COMMANDS
-###exit;
+**exit;**
 exit allows clean aborts of the game.
 
-###cache;
+**cache;**
 cache allows user to reuse a previous command-line
 
-###clear;
+**clear;**
 clear allows user to clean the texts of the consoles.
